@@ -1,0 +1,1 @@
+Rean and write data to I2C serial eeprom 24AA01 1K bit
